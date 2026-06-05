@@ -1,0 +1,23 @@
+Junior Python Developer
+
+We are looking for a junior Python developer with 2+ years of experience.
+
+REQUIREMENTS
+- Python
+- Django or Flask
+- SQL databases, especially PostgreSQL or MySQL
+- REST API development
+- Git version control
+- Docker basics
+- Linux environment
+- Unit testing with pytest or unittest
+- Working with JSON and CSV files
+
+SOFT SKILLS
+- Communication
+- Teamwork
+- Problem solving
+- Time management
+
+EDUCATION
+Bachelor degree in Computer Science or similar field

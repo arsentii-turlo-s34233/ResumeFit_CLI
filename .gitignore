@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Reports / generated files
+report.json
+reports/
+
+# OS files
+.DS_Store
+Thumbs.db

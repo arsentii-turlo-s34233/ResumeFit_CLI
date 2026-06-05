@@ -1,0 +1,23 @@
+John Smith
+Junior Python Developer
+Email: john.smith@email.com
+GitHub: github.com/johnsmith
+
+SUMMARY
+Motivated junior developer with 2 years of experience building web applications and automation tools.
+
+EDUCATION
+Bachelor degree in Computer Science
+
+HARD SKILLS
+Python, Flask, SQL, PostgreSQL, SQLite, HTML, CSS, Git, Linux, REST API, JSON, CSV
+
+SOFT SKILLS
+Communication, teamwork, problem solving, collaboration
+
+EXPERIENCE
+Junior Python Developer
+- Built REST API endpoints using Python and Flask
+- Worked with PostgreSQL and SQLite databases
+- Used Git for version control
+- Created automation scripts for CSV and JSON data processing

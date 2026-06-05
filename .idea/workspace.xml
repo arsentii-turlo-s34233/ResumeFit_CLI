@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0f44a4c-c491-4daa-b0e5-ac3acab0d862" name="Changes" comment="" />
+    <list default="true" id="c0f44a4c-c491-4daa-b0e5-ac3acab0d862" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ResumeFit_CLI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/sample_job.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/sample_resume.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResumeFit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResumeFit/analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResumeFit/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResumeFit/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResumeFit/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResumeFit/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResumeFit/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResumeFit/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResumeFit/scoring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResumeFit/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResumeFit/text_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -17,8 +48,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -37,10 +74,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780435959330</updated>
+      <workItem from="1780435960343" duration="24336000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ResumeFit_CLI$main.coverage" NAME="main Coverage Results" MODIFIED="1780670358269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
