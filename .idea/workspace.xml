@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0f44a4c-c491-4daa-b0e5-ac3acab0d862" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ResumeFit_CLI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/sample_job.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/sample_resume.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumeFit/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumeFit/analyzer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumeFit/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumeFit/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumeFit/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumeFit/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumeFit/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumeFit/report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumeFit/scoring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumeFit/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResumeFit/text_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780435959330</updated>
-      <workItem from="1780435960343" duration="24336000" />
+      <workItem from="1780435960343" duration="25587000" />
     </task>
     <servers />
   </component>
