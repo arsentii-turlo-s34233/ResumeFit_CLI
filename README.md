@@ -12,12 +12,12 @@ python main.py
 
 Menu options
 
-1. Load Resume
-2. Load Job description
-3. Show loaded status
-4. Analyze resume fit
-5. Export last result to JSON
-6. Quit
+- 1 - Load Resume
+- 2 - Load Job description
+- 3 - Show loaded status
+- 4 - Analyze resume fit
+- 5 - Export last result to JSON
+- 0 - Quit
 
 Sample files
 

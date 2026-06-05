@@ -6,11 +6,10 @@ class Document:
         return bool(self.text)
 
 class AnalysisResult:
-    def __init__(
-        self, overall_score, match_lvl, hard_skills_score, soft_skills_score, exp_score, edu_score,
-            matched_hard_skills, missing_hard_skills, matched_soft_skills, missing_soft_skills,
-            resume_years, job_years, resume_edu, job_edu,skill_summary, recommendations
-    ):
+    def __init__(self, overall_score, match_lvl, hard_skills_score, soft_skills_score, exp_score,
+                 edu_score, matched_hard_skills, missing_hard_skills, matched_soft_skills,
+                 missing_soft_skills, resume_years, job_years, resume_edu, job_edu,skill_summary,
+                 recommendations):
         self.overall_score = overall_score
         self.match_lvl = match_lvl
         self.hard_skills_score = hard_skills_score

@@ -4,6 +4,7 @@
     <list default="true" id="c0f44a4c-c491-4daa-b0e5-ac3acab0d862" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResumeFit/analyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ResumeFit/analyzer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780435959330</updated>
-      <workItem from="1780435960343" duration="25587000" />
+      <workItem from="1780435960343" duration="26923000" />
     </task>
     <servers />
   </component>

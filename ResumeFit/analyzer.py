@@ -4,7 +4,7 @@ from ResumeFit.models import AnalysisResult
 from ResumeFit.scoring import (calc_perc_score, calc_exp_score, calc_edu_score, calc_ovrl_score, get_match_lvl)
 from ResumeFit.text_tools import (find_skill, find_yrs_exp, find_edu_lvl, edu_rank)
 
-def build_skill_summary (matched_hard_skills, matched_soft_skills, missing_hard_skills,
+def build_skill_summary(matched_hard_skills, matched_soft_skills, missing_hard_skills,
     missing_soft_skills):
     summary = {
         "matched hard skills": matched_hard_skills,
